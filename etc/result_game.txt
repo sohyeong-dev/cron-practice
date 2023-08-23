@@ -1,0 +1,7 @@
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
